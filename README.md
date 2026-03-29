@@ -36,8 +36,8 @@ bash
 运行
 python main/gradio_demo.py
 项目成果
-ResNet18 测试准确率：92%+
-EfficientNet-B3 测试准确率：95%+
+ResNet18 测试准确率：94%+
+EfficientNet-B3 测试准确率：94%+
 完整训练日志、可视化图表、模型权重
 作者
 GitHub: https://github.com/hrx1129
